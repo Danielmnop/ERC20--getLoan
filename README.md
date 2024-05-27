@@ -1,5 +1,5 @@
 # Smart Contract
-This Solidity program is a "Money Lending" smart contract. This program inherits from OpenZepelin ERC20 contract. This program has its main function, mint, burn, and transfer
+This Solidity program is a "Money Lending" smart contract. This program inherits from OpenZepelin ERC20 contract. This program has its main function called mint, burn, and transfer
 
 ## Description
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain.
